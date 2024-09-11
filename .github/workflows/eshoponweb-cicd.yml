@@ -5,11 +5,11 @@ on: [push, workflow_dispatch]
 
 #Environment variables https://docs.github.com/en/actions/learn-github-actions/environment-variables
 env:
-  RESOURCE-GROUP: rg-eshoponweb-erik-lab
+  RESOURCE-GROUP: rg-eshoponweb-eriklab
   LOCATION: East US
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: Azure Pass - Sponsorship
-  WEBAPP-NAME: eshoponweb-webapp-erik-lab
+  WEBAPP-NAME: eshoponweb-webapp-eriklab
 
 
 jobs:
