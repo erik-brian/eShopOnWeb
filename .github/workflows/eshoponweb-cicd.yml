@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-eshoponweb-eriklab
   LOCATION: East US
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: Azure Pass - Sponsorship
+  SUBSCRIPTION-ID: 6d089673-8b07-4c0a-845f-c257ff74c16b
   WEBAPP-NAME: eshoponweb-webapp-eriklab
 
 
